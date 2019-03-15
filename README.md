@@ -17,5 +17,15 @@ Please check https://github.com/leelakrishnak/S3DragDropButton react UI componet
 
 
 
+ /**
+ * Make sure you have s3_config.json file with following s3 credentials
+ * before running the app
+ * {
+ * accessKeyId: xxxx,
+ * secretAccessKey: xxxx,
+ * region: xxxx
+ * }
+
+ 
  
  
